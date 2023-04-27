@@ -162,7 +162,7 @@ function updatePokemonHealth(
     )}`
   );
   count++;
-  if (count % 4 === 0 && count !== 0) {
+  if (count % 3 === 0 && count !== 0) {
     readlineSync.keyInPause();
     console.clear();
     console.log(
