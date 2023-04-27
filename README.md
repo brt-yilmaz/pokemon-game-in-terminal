@@ -28,15 +28,11 @@ git clone git@github.com:brt-yilmaz/pokemon-game-in-terminal.git
 ```bash
 npm install
 ```  
-3. Type the following command in your terminal to install the required packages:
+4. Wait for the packages to install. Once they are installed, you can run the game with the following command.
 
 ```bash
-npm install readline-sync chalk
+npm start
 ```
-
-This command installs two packages: `readline-sync` and `chalk`.
-
-4. Wait for the packages to install. Once they are installed, you can run the game.
 
 ## Usage
 ### Using without ES6 Modules
