@@ -12,10 +12,22 @@ the game.
 
 ## Installation
 
-To install the required packages for this game, you need to have Node.js and npm (Node Package Manager) installed on your system. Once you have Node.js and npm installed, follow the steps below:
+To use this game, you will need to have [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.com/) installed on your machine. You can download and install both from their official websites.
 
-1. Open your terminal.
+Once you have Node.js and npm installed, you can follow these steps to install and run the game:
+
+1. Clone the repository to your local machine using the following command:
+
+```bash
+git clone git@github.com:brt-yilmaz/pokemon-game-in-terminal.git
+```
 2. Navigate to the directory where you have downloaded/cloned this game.
+
+3. Install the required dependencies using the following command:
+
+```bash
+npm install
+```  
 3. Type the following command in your terminal to install the required packages:
 
 ```bash
