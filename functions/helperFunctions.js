@@ -3,11 +3,15 @@ import trainers from "../data/trainers.js";
 import chalk from "chalk";
 
 function startMessageAndCreatePlayer() {
-  console.log(`
+  console.log(
+    chalk.magentaBright(`
+  POKEMON battles begin!!!  
+  
   Are you ready to go?
   
   Get ready, we're starting!
-  `);
+  `)
+  );
   return createPlayers(trainers);
 }
 
