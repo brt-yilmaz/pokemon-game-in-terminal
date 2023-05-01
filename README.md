@@ -1,4 +1,4 @@
-# A Simple Pokemon Game in the Terminal with JavaScript
+# Pokemon Game in the Terminal with JavaScript
 
 This is a simple Pokemon game that can be played in the terminal.
 The game involves two players choosing a trainer each and taking 
